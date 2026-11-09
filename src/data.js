@@ -55,10 +55,10 @@ export const heroData = {
 export const aboutData = {
   title: 'My Story:',
   subtitle1:
-    'I picked up my first machine fifteen years ago and never put it down. Every piece I ink starts with a conversation: your story, your style, the place it will live on your skin.',
+    'I started in 2011 as an apprentice in a small Brooklyn shop, cleaning stations and drawing flash every night for two years before I was trusted with my first client. In 2017 I opened The Void with a single chair and one rule: no piece leaves the studio unless I would wear it myself.',
   subtitle2:
-    'From fine-line minimalism to bold blackwork and full colour sleeves, each design is drawn by hand for you alone. The studio follows strict hygiene standards, uses single-use needles and vegan inks, and I take the time to guide you through aftercare so your tattoo heals beautifully.',
-  btnText: 'Know more',
+    'Today I split my time between our two studios, in New York and Los Angeles, and specialise in blackwork, fine line and black and grey realism. Every design is drawn from scratch after a free consultation, never copied from a catalogue. Each session uses sterile, single-use equipment, and I follow up with every client until the tattoo is fully healed.',
+  btnText: 'Book a consultation',
   btnIcon: <IoMdArrowForward />,
 }
 

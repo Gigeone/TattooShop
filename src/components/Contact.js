@@ -60,7 +60,9 @@ const Contact = () => {
                     {/* link */}
                     <a
                       className="font-medium border-b border-dark pb-[5px]"
-                      href="#"
+                      href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address.name)}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       {link}
                     </a>
