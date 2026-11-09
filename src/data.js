@@ -55,9 +55,9 @@ export const heroData = {
 export const aboutData = {
   title: 'My Story:',
   subtitle1:
-    'In velit arcu posuere integer. Dolor sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus hac vel ante sit sed scelerisque praesent duis volutpat laoreet.',
+    'I picked up my first machine fifteen years ago and never put it down. Every piece I ink starts with a conversation: your story, your style, the place it will live on your skin.',
   subtitle2:
-    'Nisl, sit molestie commodo congue. Etiam lectus risus in amet. Commodo molestie fames etiam aenean sed. Pellentesque et venenatis amet, tellus hac vel adipiscing sit. Placerat vitae nisl viverra faucibus tincidunt habitasse amet. Nunc, velit nunc, scelerisque imperdiet nunc.',
+    'From fine-line minimalism to bold blackwork and full colour sleeves, each design is drawn by hand for you alone. The studio follows strict hygiene standards, uses single-use needles and vegan inks, and I take the time to guide you through aftercare so your tattoo heals beautifully.',
   btnText: 'Know more',
   btnIcon: <IoMdArrowForward />,
 }
@@ -136,9 +136,9 @@ export const testimonialData = [
   {
     quoteImg: QuoteImg,
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam culpa asperiores officia natus dignissimos autem possimus molestias aperiam?',
+      'I came in with a rough idea and left with a piece that tells my story better than I could have imagined. Clean studio, calm atmosphere, and the healing went perfectly.',
     name: 'Douglas Hane',
-    occupation: 'Tattoo Artist',
+    occupation: 'Client since 2021',
   },
 ]
 
@@ -148,7 +148,7 @@ export const contactData = {
     {
       title: 'LA office',
       subtitle:
-        'In velit arcu posuere integer sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus',
+        'Our original studio. Walk-ins welcome Wednesday to Saturday for small pieces, consultations by appointment on Monday and Tuesday.',
       address: {
         icon: <FaMapMarkerAlt />,
         name: '784 Norman Street, Los Angeles',
@@ -166,7 +166,7 @@ export const contactData = {
     {
       title: 'NYC office',
       subtitle:
-        'Sit amet, consectetur nun in velit arcu posuere integer. Adipiscing elit duis porttitor massa tellus',
+        'Our second studio, with the same hours. Book a free consultation to talk through your project.',
       address: {
         icon: <FaMapMarkerAlt />,
         name: '1630 Elm Drive, New York City',
@@ -194,7 +194,7 @@ export const footerData = {
   about: {
     title: 'About void tattoo',
     subtitle:
-      'Sit amet, consectetur nun in velit arcu posuere integer. Adipiscing elit duis porttitor massa tellus',
+      'Custom tattoos drawn by hand, inked with care in a clean and welcoming studio.',
     address: {
       icon: <FaMapMarkerAlt />,
       name: '1630 Elm Drive, New York City',
@@ -229,7 +229,7 @@ export const footerData = {
   newsletter: {
     title: 'Newsletter',
     subtitle:
-      'Elit duis porttitor massa tellus nun in velit arcu posuere integer.',
+      'New flash designs, guest artists and available slots, once a month. No spam.',
     form: {
       placeholder: 'Your email address',
       icon: <FiSend />,
