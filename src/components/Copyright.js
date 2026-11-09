@@ -17,7 +17,7 @@ const Copyright = () => {
           viewport={{ once: false, amount: 0 }}
           className="tracking-[0.02em] text-base"
         >
-          &copy; 2022
+          &copy; 2026
           <span className="font-semibold text-white">The Void Tattoo.</span>
           All rights reserved.
         </motion.div>
